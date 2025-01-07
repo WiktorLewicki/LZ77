@@ -1,5 +1,7 @@
 # **LZ77 Lossless Compression Algorithm Implementation**
 
+Demonstration: [https://youtu.be/MVvS0YqbE_Q](https://youtu.be/MVvS0YqbE_Q)
+
 This project presents an implementation of the **LZ77 lossless compression algorithm**.
 
 **Key Features:**
@@ -29,4 +31,4 @@ To compress a file, select the desired input file and specify the output locatio
 
 
 The sample file used in the demonstration is sourced from [https://sjp.pl/sl/growy/](https://sjp.pl/sl/growy/).
-Compressing the sample file from the demonstration took approximately 90 seconds.
+In the demonstration, the file compression took approximately 23 seconds. On a significantly less powerful laptop, the same compression process took up to 95 seconds.
