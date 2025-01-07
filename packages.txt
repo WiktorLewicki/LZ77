@@ -1,0 +1,3 @@
+qt6-base-dev
+qtbase5-dev qtchooser
+qt5-qmake
