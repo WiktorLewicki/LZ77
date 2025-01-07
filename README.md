@@ -30,5 +30,8 @@ This project presents an implementation of the **LZ77 lossless compression algor
 To compress a file, select the desired input file and specify the output location and filename. The application will process the file and generate a compressed version using the LZ77 algorithm.
 
 
+
+
+
 The sample file used in the demonstration is sourced from [https://sjp.pl/sl/growy/](https://sjp.pl/sl/growy/).
 In the demonstration, the file compression took approximately 23 seconds. On a significantly less powerful laptop, the same compression process took up to 95 seconds.
