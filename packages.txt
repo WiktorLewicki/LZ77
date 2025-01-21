@@ -1,4 +1,5 @@
 g++
 make
 qt5-qmake
-qtbase5-dev qtchooser
+qtbase5-dev 
+qtchooser
